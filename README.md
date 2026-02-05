@@ -4,7 +4,7 @@ JavaScriptで100万回Hello, Worldl!する方法
 
 # Rules
 
-> [!TIPS]  
+> [!TIP]  
 > https://youtu.be/OHOTGcQmndQ
 
 1. `for` / `while` / `forEach` など禁止

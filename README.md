@@ -87,10 +87,6 @@ npm run test:watch
 
 詳細は [CONTRIBUTING.md](./CONTRIBUTING.md) をご覧ください。
 
-### 貢献者
-
-[![Contributors](https://contrib.rocks/image?repo=oto-home/how-to-do_hello-world_a-million-times.js)](https://github.com/oto-home/how-to-do_hello-world_a-million-times.js/graphs/contributors)
-
 ### クイックスタート
 
 ```bash
@@ -112,4 +108,6 @@ npm test your_method_name
 > [!WARNING]
 > `src/[dirname]/main.*` 以外のファイルを変更するPRは自動的にクローズされます。
 
----
+### 貢献者
+
+[![Contributors](https://contrib.rocks/image?repo=oto-home/how-to-do_hello-world_a-million-times.js)](https://github.com/oto-home/how-to-do_hello-world_a-million-times.js/graphs/contributors)

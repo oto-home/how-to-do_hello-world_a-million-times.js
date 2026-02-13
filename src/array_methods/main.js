@@ -1,0 +1,10 @@
+const arr = Array.from(new Array(100000), () => console.log("Hello, World!"));
+arr.every(() => !console.log("Hello, World!"));
+arr.filter(() => console.log("Hello, World!"));
+arr.find(() => console.log("Hello, World!"));
+arr.findIndex(() => console.log("Hello, World!"));
+arr.findLast(() => console.log("Hello, World!"));
+arr.findLastIndex(() => console.log("Hello, World!"));
+arr.reduce(() => console.log("Hello, World!"), 0);
+arr.reduceRight(() => console.log("Hello, World!"), 0);
+arr.some(() => console.log("Hello, World!"));

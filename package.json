@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/oto-home/how-to-do_hello-world_a-million-times.js#readme",
   "devDependencies": {
-    "@types/node": "^25.4.0",
+    "@types/node": "^25.5.0",
     "closewords": "^2.3.1",
     "coffeescript": "^2.7.0",
     "cross-env": "^10.1.0",
